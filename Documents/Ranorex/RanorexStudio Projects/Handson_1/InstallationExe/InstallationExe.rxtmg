@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="InstallationExe"
+      id="1e991fa9-f6c1-4789-8277-d7716862f3f0"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="InstallationExe"
+      id="1e991fa9-f6c1-4789-8277-d7716862f3f0"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

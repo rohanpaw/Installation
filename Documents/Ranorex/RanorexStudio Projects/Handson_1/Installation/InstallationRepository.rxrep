@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="InstallationRepository"
+id="bc6115fa-bbde-4d40-8775-2bf983835018">
+  <codegen
+  classname="InstallationRepository"
+  namespace="Installation"/>
+  <rootfolder
+  name="Root"
+  id="123954e7-5002-42ad-9c03-0f45341fcc09"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

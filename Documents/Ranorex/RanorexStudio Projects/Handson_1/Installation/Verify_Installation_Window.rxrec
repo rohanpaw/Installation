@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="86ab4060-725f-4d69-9c48-a318599724a3"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Verify_Installation_Window"
+	namespace="Installation">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<userrecorditem
+		classname="Verify_Installation_Window"
+		enabled="True"
+		isexternaltestmethod="False"
+		methodname="Veriy_Window"
+		namespace="Installation"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<arguments
+			id="8c9d9c9e-06ee-41b5-bc6d-cb71e4f2debe">
+				<argument
+				argname="s"
+				id="1347a23d-e97f-467b-bc3e-5a49e663b05c">
+					<argvaluetype>
+						System.String
+					</argvaluetype>
+					<argvalue>
+					</argvalue>
+				</argument>
+			</arguments>
+		</userrecorditem>
+	</recorditems>
+	<repository
+	id="bc6115fa-bbde-4d40-8775-2bf983835018"
+	name="InstallationRepository"
+	relativepath="InstallationRepository.rxrep">
+		<codegen
+		classname="InstallationRepository"
+		namespace="Installation">
+		</codegen>
+		<rootfolder
+		id="123954e7-5002-42ad-9c03-0f45341fcc09"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Verify_Installation_Window.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
